@@ -12,6 +12,8 @@ The website can be found at this link:
 
 The scraped data has been exported to an excel and can be found at the link below:
  - *[names.xlsx](https://github.com/msanders25/Web-Scraping-in-Python/blob/main/names.xlsx)*
+
+Included at the end of this project in section 5a is a random male and female name generator that can be used to generate random first and last names. Additionally, in the random name generator, the user can select the first letter they would like the first and last names for both male and female to begin with.
  
 ## Project Challenges and Solutions
 While this project presented various challenges, the following were particularly demanding and required additional research to achieve the desired outcomes.
