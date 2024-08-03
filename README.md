@@ -3,7 +3,7 @@
 ## Project Overview
 The purpose of this project was to show web scraping techniques using the BeautifulSoup library in Python to show the ability to gather data from various sources. I was curious about what the top most common first and last names were in the US and was able to find a good website to scrape and then analyze. I was also curious to discover what names are commonly used for both males and females. After scraping the data from the website, the project uncovers various insights such as the names shared by both male and female as mentioned before as well as top 10 most common first names in both male and female demographics and more.
 
-Review the python jupyter notebook *[HERE](https://github.com/msanders25/Data-Cleaning-in-SQL/blob/main/gym%20data%20cleaning.sql)*
+Review the python jupyter notebook *[HERE](https://names.mongabay.com/most_common_surnames.htm)*
 
 The website that was scraped contains info on the top most common surnames, male first names, and female first names. Links can be found on the website to look at the names categorized in other forms. Included with the names are data containing an approximate number for the number of times the name is used, percentage of frequency, and rank.
 
@@ -11,7 +11,7 @@ The website can be found at this link:
  - *[names.mongabay.com](https://names.mongabay.com/most_common_surnames.htm)*
 
 The scraped data has been exported to an excel and can be found at the link below:
- - *[names.xlsx](https://github.com/msanders25/Data-Cleaning-in-SQL/blob/main/nc_gym_data.csv)*
+ - *[names.xlsx](https://github.com/msanders25/Web-Scraping-in-Python/blob/main/names.xlsx)*
  
 ## Project Challenges and Solutions
 While this project presented various challenges, the following were particularly demanding and required additional research to achieve the desired outcomes.
